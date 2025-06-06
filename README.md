@@ -1,2 +1,2 @@
 # radar-cantenna-matlab-design
-"MATLAB-based circular waveguide cantenna design and antenna analysis for 2.4 GHz FMCW radar systems"
+This project focuses on the design and electromagnetic analysis of a cantenna with a circular waveguide structure, developed in MATLAB for a 2.4 GHz FMCW radar system. Throughout the design process, key parameters such as cutoff frequencies, mode analysis (TE₁₁, TM₀₁), slant radius, beamwidth, phase center, and antenna gain were computed. Impedance matching and radiation characteristics were evaluated using MATLAB’s Antenna Toolbox and custom-built functions.
